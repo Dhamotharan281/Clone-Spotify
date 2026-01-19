@@ -1,10 +1,9 @@
 # Spotify Clone 🎧
 
-![icon_logo](https://github.com/varun-FSDeveloper/BTreeFlight/assets/153975508/7b010aed-1466-46e3-8636-891bf59dcb25)
+
 
 Welcome to the **Spotify Clone** project! This repository showcases a sleek and responsive clone of Spotify, built using **React** and **Tailwind CSS**. It replicates Spotify's user-friendly interface and offers a dynamic and responsive design experience.
 
-For more about **BTree Systems**, visit [our website](https://btreesystems.com).
 
 ---
 

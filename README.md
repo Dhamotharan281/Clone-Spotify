@@ -63,7 +63,6 @@ Follow these steps to set up and run the project locally:
 Once the server starts, open your web browser and go to http://localhost:3000 to view the project in action.
 
 
----
 
 
 
